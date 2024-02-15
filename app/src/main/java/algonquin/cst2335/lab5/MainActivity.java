@@ -54,6 +54,7 @@ public final class MainActivity extends AppCompatActivity {
     /**
      * This function checks if the given string meets the password complexity requirements.
      *
+     *
      * @param pw The string object that we are checking
      * @return Return true if the password is complex
      */
@@ -93,6 +94,7 @@ public final class MainActivity extends AppCompatActivity {
 
     /**
      * Checks if the character is a special character.
+     *
      *
      * @param c The character to check
      * @return True if the character is a special character, false otherwise
